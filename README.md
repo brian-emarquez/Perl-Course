@@ -54,6 +54,7 @@
 ## Creador
 
 <table align="center">
+<p align="center"> Larry Wall  </p>
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="./images/Larry_Wall.jpg" />
@@ -84,7 +85,8 @@ Mientras hacía su posgrado en UC Berkeley, Wall y su mujer estudiaron lingüís
 
 Estructuralmente, Perl está basado en un estilo de bloques como los del C o AWK, y fue ampliamente adoptado por su destreza en el procesado de texto y no tener ninguna de las limitaciones de los otros lenguajes de script.</p>
 
-[https://www.perl.org/](https://www.perl.org/) [https://dev.perl.org/perl5/](https://dev.perl.org/perl5/)
+[https://www.perl.org/]
+[https://dev.perl.org/perl5/]
 
 ## Instalation
 
