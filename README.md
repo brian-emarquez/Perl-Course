@@ -36,14 +36,11 @@
   </tr>
 </table>
 
-
-ealizan sobre archivos compartidos. [WIKIPEDIA](https://es.wikipedia.org/wiki/Git).<br>
-
 ## Tabla de contenidos
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  001   |:heavy_check_mark: | [Instalacion](#Instalacion)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3)| 
+|  001   |:heavy_check_mark: | [Instalation](#Instalation)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3)| 
 
 ---
 
@@ -55,6 +52,13 @@ ealizan sobre archivos compartidos. [WIKIPEDIA](https://es.wikipedia.org/wiki/Gi
   </tr>
 </table>
 
+
+## Instalacion
+
+📦 [Install Perl 5](https://www.perl.org/get.html) get the installer for windows<br>
+📦 [Install strawberry Perl](https://strawberryperl.com/) get the installer for windows Strawberry Perl<br>
+
+Perl is a programming language suitable for writing simple scripts as well as complex applications — see [https://www.perl.org.](https://www.perl.org.)
 
 
 ## Comandos
@@ -80,21 +84,7 @@ Principales comando de GIT
   
 
 
----
-## Instalacion
 
-<table>
-<p>Instalacion de Git en Windows</p>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/git.png" />
-    </td>
-  </tr>
-</table>
-
-
-📦 [Install Git](https://git-scm.com/) Instalador de Git.<br>
-📦 [Install Github](https://desktop.github.com/) Instalador de Github.<br>
 
 ## Crear repositorio
 
