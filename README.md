@@ -78,9 +78,7 @@ Mientras hacía su posgrado en UC Berkeley, Wall y su mujer estudiaron lingüís
       <img align="center" style="padding=0;" src="./images/Cebolla_Chulita.png" />
     </td>
   </tr>
-  <h3 align="center"> Paradigma: 	multiparadigma, funcional, imperativa, orientado a objetos (basado en clases), reflexiva, procedural, eventos, genérica  </h3>
-
-</table>
+ </table>
 
 
 <p>Perl es un lenguaje de programación diseñado por Larry Wall en 1987. Perl toma características del lenguaje C, del lenguaje interpretado bourne shell (sh), AWK, sed, Lisp y, en un grado inferior, de muchos otros lenguajes de programación.
