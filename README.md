@@ -59,7 +59,6 @@
       <img align="center" style="padding=0;" src="./images/Larry_Wall.jpg" />
     </td>
   </tr>
-  <h3 align="center"> Extensiones: comunes	pl y pm  </h3>
 </table>
 
 
@@ -85,7 +84,7 @@ Mientras hacía su posgrado en UC Berkeley, Wall y su mujer estudiaron lingüís
 
 Estructuralmente, Perl está basado en un estilo de bloques como los del C o AWK, y fue ampliamente adoptado por su destreza en el procesado de texto y no tener ninguna de las limitaciones de los otros lenguajes de script.</p>
 
-[https://www.perl.org/]
+[https://www.perl.org/] y 
 [https://dev.perl.org/perl5/]
 
 ## Instalation
@@ -96,7 +95,6 @@ Estructuralmente, Perl está basado en un estilo de bloques como los del C o AWK
       <img align="center" style="padding=0;" src="./images/home_pages.png" />
     </td>
   </tr>
-  <h3 align="center"> Apareció en	18 de diciembre de 1987   </h3>
 </table>
 
 📦 [Install Perl 5](https://www.perl.org/get.html) get the installer for windows<br>
