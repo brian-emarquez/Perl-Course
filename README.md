@@ -12,13 +12,13 @@
   <a href="https://github.com/BrianMarquez3/Perl-Course/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Perl-Course.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Perl-Course?color=gren&label=Version&logo=perl">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Perl-Course?color=blue&label=Version&logo=perl">
   </a>
   </a>
     <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Perl-Course">
   </a>
   </a>
-    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Perl-Course/total?color=violet">
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Perl-Course/total?color=blue">
   </a>
   </a>
    <a href="https://github.com/BrianMarquez3/Perl-Course/network">
