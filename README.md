@@ -31,7 +31,7 @@
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/perl-banner.gif" />
+      <img align="center" style="padding=0;" src="./images/banner.gif" />
     </td>
   </tr>
 </table>
