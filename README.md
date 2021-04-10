@@ -84,7 +84,7 @@ Mientras hacía su posgrado en UC Berkeley, Wall y su mujer estudiaron lingüís
 
 Estructuralmente, Perl está basado en un estilo de bloques como los del C o AWK, y fue ampliamente adoptado por su destreza en el procesado de texto y no tener ninguna de las limitaciones de los otros lenguajes de script.</p>
 
-[https://www.perl.org/] y 
+[https://www.perl.org/], 
 [https://dev.perl.org/perl5/]
 
 ## Instalation
@@ -195,7 +195,7 @@ Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Git/
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/git00.gif" />
+      <img align="center" style="padding=0;" src="./images/line.gif" />
     </td>
   </tr>
 </table>
