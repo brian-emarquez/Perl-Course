@@ -67,7 +67,7 @@ Principales comando de `Perl`
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/hversion.png" />
+      <img align="center" style="padding=0;" src="./images/version.png" />
     </td>
   </tr>
 </table>
