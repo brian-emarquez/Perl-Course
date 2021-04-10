@@ -54,7 +54,7 @@
 ## Creador
 
 <table align="center">
-<p align="center"> Larry Wall  </p>
+<h3 align="center"> Larry Wall  </h3>
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="./images/Larry_Wall.jpg" />
