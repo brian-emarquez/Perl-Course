@@ -1,4 +1,4 @@
-<h2 align="center">  Perl Course 🐫 </h2>
+<h2 align="center">  Power of Perl :: 🐫 Learn Basic and Advanced Perl </h2>
 <!-- https://shields.io/ -->
 
 <p align="center">
