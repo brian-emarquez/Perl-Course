@@ -40,7 +40,7 @@
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  001   |:heavy_check_mark: | [Instalation](#Instalation)   | <td align="center"🐫>    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  001   |:heavy_check_mark: | [Instalation](#Instalation)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 ---
 
