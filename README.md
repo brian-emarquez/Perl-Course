@@ -60,6 +60,7 @@
       <img align="center" style="padding=0;" src="./images/Larry_Wall.jpg" />
     </td>
   </tr>
+  <h3 align="center"> Extensiones: comunes	pl y pm  </h3>
 </table>
 
 
@@ -78,6 +79,8 @@ Mientras hacía su posgrado en UC Berkeley, Wall y su mujer estudiaron lingüís
       <img align="center" style="padding=0;" src="./images/Cebolla_Chulita.png" />
     </td>
   </tr>
+  <h3 align="center"> Paradigma: 	multiparadigma, funcional, imperativa, orientado a objetos (basado en clases), reflexiva, procedural, eventos, genérica  </h3>
+
 </table>
 
 
@@ -96,6 +99,7 @@ Estructuralmente, Perl está basado en un estilo de bloques como los del C o AWK
       <img align="center" style="padding=0;" src="./images/home_pages.png" />
     </td>
   </tr>
+  <h3 align="center"> Apareció en	18 de diciembre de 1987   </h3>
 </table>
 
 📦 [Install Perl 5](https://www.perl.org/get.html) get the installer for windows<br>
@@ -116,12 +120,42 @@ Condicionales
 
 ## Variables
 
+<p>Los valores numéricos espresados literalmente se presentan en forma de valores reales codificados en doble precisión. Este formato interno se utiliza para todas las operaciones aritméticas. Por ejemplo:</p>
+
+```perl
+$x = 0.897;          # un real
+$y = 6.23e-24;       # un real
+$n = 567;            # un entero
+$i = -234;           # un entero
+```
+<p>Las cadenas de caracteres se especifican literalmente por medio de un sucesión de caracteres delimitada por comillas ("..") o apóstrofes ('..'). </p>
+
+```perl
+$wld = "mundo";
+$str = "¡Hola $wld!";
+```
+
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Variables](https://github.com/BrianMarquez3/Perl-Course/tree/main/002%20Variables)  | 003 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
 
 ## Array
 
+<p>Un array es una lista de datos de tipo escalar. Cada elemento de la lista es una variable escalar a la que se le asocia un valor. Las variables de tipo array se identifican por el prefijo arroba @. Por ejemplo:</p>
+
+```perl
+@numeros = (2, 1, 667, 23, 2.2, 5, 6);
+@letras = ("perro", "gato", "león");
+@mezcla = ("hola", 23, "adios", 31.234);
+```
+
+También se puede  acceder a un array mediante el operador que define una horquilla de índices. Por ejemplo:
+
+```perl
+@num1 = @numeros[1..3];     # @num1 = (1, 667, 23)
+@str = @letras[0,2];        # @str = ("perro", "león")
+($ristra, $num) = @mezcla;  # $ristra = "hola", $num = 23
+```
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
@@ -129,13 +163,22 @@ Condicionales
 
 ## Hashes
 
+```perl
+#!/usr/bin/perl
+
+%data = ('John Paul', 45, 'Lisa', 30, 'Kumar', 40);
+
+print "\$data{'John Paul'} = $data{'John Paul'}\n";
+print "\$data{'Lisa'} = $data{'Lisa'}\n";
+print "\$data{'Kumar'} = $data{'Kumar'}\n";
+```
+
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Hashes](https://github.com/BrianMarquez3/Perl-Course/tree/main/004%20Hashes)  | 003 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
 
 ## Condicionales
-
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
