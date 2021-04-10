@@ -44,7 +44,7 @@
 
 ---
 
-## Instalacion
+## Instalation
 
 📦 [Install Perl 5](https://www.perl.org/get.html) get the installer for windows<br>
 📦 [Install strawberry Perl](https://strawberryperl.com/) get the installer for windows Strawberry Perl<br>
