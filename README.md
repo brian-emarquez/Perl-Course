@@ -44,15 +44,6 @@
 
 ---
 
-<table align="center" >
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/git2.gif" />
-    </td>
-  </tr>
-</table>
-
-
 ## Instalacion
 
 📦 [Install Perl 5](https://www.perl.org/get.html) get the installer for windows<br>
