@@ -12,7 +12,7 @@
   <a href="https://github.com/BrianMarquez3/Perl-Course/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Perl-Course.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Perl-Course?color=gren&label=Version&logo=java">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Perl-Course?color=gren&label=Version&logo=perl">
   </a>
   
   </a>
