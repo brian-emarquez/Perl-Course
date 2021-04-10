@@ -24,8 +24,7 @@
    <a href="https://github.com/BrianMarquez3/Perl-Course/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
- 
-  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Perl-Course?color=darkred&style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Perl-Course?color=darkblue&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Perl-Course?style=for-the-badge">
 </P>
 
