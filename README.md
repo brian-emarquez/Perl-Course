@@ -46,6 +46,14 @@
 
 ## Instalation
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/home_pages.png" />
+    </td>
+  </tr>
+</table>
+
 📦 [Install Perl 5](https://www.perl.org/get.html) get the installer for windows<br>
 📦 [Install strawberry Perl](https://strawberryperl.com/) get the installer for windows Strawberry Perl<br>
 
