@@ -36,6 +36,8 @@
   </tr>
 </table>
 
+![java](./images/Perl_Banner.png)
+
 
 ealizan sobre archivos compartidos. [WIKIPEDIA](https://es.wikipedia.org/wiki/Git).<br>
 
@@ -54,6 +56,7 @@ ealizan sobre archivos compartidos. [WIKIPEDIA](https://es.wikipedia.org/wiki/Gi
     </td>
   </tr>
 </table>
+
 
 
 ## Comandos
@@ -121,3 +124,4 @@ Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Git/
       <img align="center" style="padding=0;" src="./images/git00.gif" />
     </td>
   </tr>
+</table>
