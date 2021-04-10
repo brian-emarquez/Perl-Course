@@ -50,7 +50,6 @@
 |  007   |:heavy_check_mark: | [Condicionales](#Condicionales)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 ---
-
 ## Creador
 
 <table align="center">
