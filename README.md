@@ -30,7 +30,7 @@
 
 
 
-![java](./images/Perl_Banner.png)
+![java](./images/Perl.png)
 
 
 ealizan sobre archivos compartidos. [WIKIPEDIA](https://es.wikipedia.org/wiki/Git).<br>
