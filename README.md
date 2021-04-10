@@ -36,11 +36,11 @@
   </tr>
 </table>
 
-## Tabla de contenidos
+## Table of Contents
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  001   |:heavy_check_mark: | [Instalation](#Instalation)   | :hourglass:     | 💻 | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3)| 
+|  001   |:heavy_check_mark: | [Instalation](#Instalation)   | :hourglass:     | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 ---
 
