@@ -57,12 +57,20 @@
 📦 [Install Perl 5](https://www.perl.org/get.html) get the installer for windows<br>
 📦 [Install strawberry Perl](https://strawberryperl.com/) get the installer for windows Strawberry Perl<br>
 
-Perl is a programming language suitable for writing simple scripts as well as complex applications — see [https://www.perl.org.](https://www.perl.org.)
+Perl is a programming language suitable for writing simple scripts as well as complex applications - see [https://www.perl.org.](https://www.perl.org.)
 
 
 ## Comandos
 
-Principales comando de GIT
+Principales comando de `Perl`
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/hversion.png" />
+    </td>
+  </tr>
+</table>
 
 <table>
 
@@ -76,15 +84,13 @@ Principales comando de GIT
   <tr>
     <td>001</td>
     <td>✅</td>
-    <td><strong>git init</strong></td>
-    <td>Inicializar git, solo se ejecuta uan ves</td>
+    <td><strong>Perl --version</strong></td>
+    <td>See Perl version</td>
   </tr>
 
+
+
   
-
-
-
-
 ## Crear repositorio
 
 
