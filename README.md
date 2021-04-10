@@ -28,9 +28,13 @@
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Perl-Course?style=for-the-badge">
 </P>
 
-
-
-![java](./images/Perl.png)
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/Perl.png" />
+    </td>
+  </tr>
+</table>
 
 
 ealizan sobre archivos compartidos. [WIKIPEDIA](https://es.wikipedia.org/wiki/Git).<br>
