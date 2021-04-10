@@ -1,9 +1,9 @@
-<h2 align="center">  Power of Perl :: 🐫 Learn Basic and Advanced Perl </h2>
+<h2 align="center">  Power of Perl -🐫 Learn Basic and Advanced Perl </h2>
 <!-- https://shields.io/ -->
 
 <p align="center">
   
-   </a>
+  </a>
     <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Perl-Course?color=red">
   </a>
   <a href="https://github.com/BrianMarquez3/Perl-Course/stargazers">
@@ -14,16 +14,13 @@
   </a>
     <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Perl-Course?color=gren&label=Version&logo=perl">
   </a>
-  
   </a>
     <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Perl-Course">
   </a>
-  
   </a>
     <img src="https://img.shields.io/github/downloads/BrianMarquez3/Perl-Course/total?color=violet">
   </a>
-  
-   </a>
+  </a>
    <a href="https://github.com/BrianMarquez3/Perl-Course/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
@@ -35,7 +32,7 @@
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/java_proyect_1.gif" />
+      <img align="center" style="padding=0;" src="./images/perl-banner.png" />
     </td>
   </tr>
 </table>
