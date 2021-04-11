@@ -220,7 +220,7 @@ Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Git/
         <td>E</td>
       </tr>
       <tr>
-         <td colspan="4">F</td>
-            <td>G</td>
+      <td colspan="3">F</td>
+        <td>G</td>
     </tr>
 </table>
