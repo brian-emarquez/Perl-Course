@@ -116,7 +116,7 @@ Condicionales
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Hola Perl](https://github.com/BrianMarquez3/Perl-Course/tree/main/001%20PrimerScript)  | 003 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
+| [Hola Perl](https://github.com/BrianMarquez3/Perl-Course/tree/main/001%20PrimerScript)  | 003 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 ## Variables
 
@@ -137,7 +137,7 @@ $str = "¡Hola $wld!";
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Variables](https://github.com/BrianMarquez3/Perl-Course/tree/main/002%20Variables)  | 003 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
+| [Variables](https://github.com/BrianMarquez3/Perl-Course/tree/main/002%20Variables)  | 003 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 ## Array
 
@@ -159,7 +159,7 @@ También se puede  acceder a un array mediante el operador que define una horqui
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Array](https://github.com/BrianMarquez3/Perl-Course/tree/main/003%20Arrays)  | 003 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
+| [Array](https://github.com/BrianMarquez3/Perl-Course/tree/main/003%20Arrays)  | 003 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 ## Hashes
 
@@ -176,13 +176,13 @@ print "\$data{'Kumar'} = $data{'Kumar'}\n";
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Hashes](https://github.com/BrianMarquez3/Perl-Course/tree/main/004%20Hashes)  | 003 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
+| [Hashes](https://github.com/BrianMarquez3/Perl-Course/tree/main/004%20Hashes)  | 003 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 ## Condicionales
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Condicionales](https://github.com/BrianMarquez3/Perl-Course/tree/main/005%20Condicionales)  | 003 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Tabla-de-contenidos)
+| [Condicionales](https://github.com/BrianMarquez3/Perl-Course/tree/main/005%20Condicionales)  | 003 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
 
 
 ----
