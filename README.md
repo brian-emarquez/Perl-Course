@@ -52,6 +52,18 @@
 |  006   |:heavy_check_mark: | [Hashes](#Hashes)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  007   |:heavy_check_mark: | [Condicionales](#Condicionales)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
+ _Interprete de Perl_
+
+* `perl` -v :  Muestra la versión del intérprete de Perl que estamos utilizando.
+* `perl`-V :  Muestra información sobre la configuración del intérprete de perl.
+* `perl -e expresión` :  Ejecuta la expresión como si ésta fuera un programa de una línea. Por ejemplo: perl -e "print 'hola a todos\n';"
+* `perl -ne expresión` :  Ejecuta la expresión como si está fuera un bucle repetitivo. He aquí un ejemplo: perl -ne "print if /M+/;" usuarios.txt . Este ejemplo extrae todos los usuarios cuyo nombre empieze por la letra M.
+* `perl -d script` : Ejecuta el script bajo el depurador.
+* `perl -w script` : Da avisos sobre las contrucciones con errores.
+* `perl -pe expresión` :  Ejecuta la expresión como si está fuera un bucle repetitivo y además imprime cada línea. He aquí un ejemplo: perl -pe "print if /M+/;" usuarios.txt . Observar diferencia con la opción -ne. La diferencia es que mientras la primera versión sólo imprimía los nombres que empezaban por M, la segunda por su parte imprimía todos los nombre una vez salvo los que empiezan por M que los imprime dos veces.
+* `perl -x script` : Empieza a interpretar el fichero que contiene el script cuando encuentra la referencia al intérprete, por ejemplo: #!/usr/bin/perl.
+* `perl -i archivo` :  Permite editar archivos. Por ejemplo, si ejecutamos lo siguiente sobre la línea de comandos: perl -p -i -e "s/\$seg/\$segundos/g;" tiempo.pl. Esta orden cambiará el nombre de la variable $seg por $segundos en el script contenido en el fichero tiempo.pl.
+
 ---
 ## Creador
 
