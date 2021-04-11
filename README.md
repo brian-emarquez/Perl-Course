@@ -28,11 +28,11 @@
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Perl-Course?style=for-the-badge">
 </P>
 
-
 <table align="center">
+<h3 align="center"> Larry Wall  </h3>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/pbanner.gif"/>
+      <img align="center" style="padding=0;" src="./images/Larry_Wall.jpg" />
     </td>
   </tr>
 </table>
