@@ -108,6 +108,7 @@ Estructuralmente, Perl está basado en un estilo de bloques como los del C o AWK
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="./images/home_pages.png" />
+            <h4 align="center">  Sistema operativo: Multiplataforma, muchos (más de 100) </h4>
     </td>
   </tr>
 </table>
