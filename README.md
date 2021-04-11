@@ -216,23 +216,17 @@ Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Git/
   </tr>
 </table>
 
- <table>
-        <tr>
-          <td colspan="3">A</td>
-          <td>B</td>
-        </tr>
-        <tr>
-          <td>C</td>
-          <td colspan="2"><img align="center" style="padding=0;" src="./images/line.gif" /></td>
-          <td>E</td>
-        </tr>
-        <tr>
-          <td colspan="4">F</td>
-        </tr>
-        <tr>
-          <td>G</td>
-          <td>H</td>
-          <td>I</td>
-          <td>J</td>
-        </tr>
-        </table>
+ <table align="center">
+    <tr>
+      <td colspan="3">A</td>
+        <td>B</td>
+      </tr>
+      <tr>
+        <td>C</td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./images/line.gif" /></td>
+        <td>E</td>
+      </tr>
+      <tr>
+         <td colspan="4">F</td>
+    </tr>
+</table>
