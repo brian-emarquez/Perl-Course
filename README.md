@@ -43,14 +43,14 @@
 
 | Numeration   | Check       | Update        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
-|  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/bCwyiT34jW8MqbhZzS/giphy.gif" width="25px">| [Creador](#Creador)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  002   |:heavy_check_mark: | [Perl](#Perl)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  003   |:heavy_check_mark: | [Instalacion](#Instalation)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
-|  004   |:heavy_check_mark: | [Hola Perl](#Hola-Perl)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  004   |:heavy_check_mark: | [Variables](#Variables)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  005   |:heavy_check_mark: | [Array](#Array)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  006   |:heavy_check_mark: | [Hashes](#Hashes)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  007   |:heavy_check_mark: | [Condicionales](#Condicionales)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/lP11jIGXIU2epIFZON/giphy.gif" width="25px"> | [Creador](#Creador)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  002   |:heavy_check_mark: |<img src="https://media.giphy.com/media/lP11jIGXIU2epIFZON/giphy.gif" width="25px"> | [Perl](#Perl)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  003   |:heavy_check_mark: |<img src="https://media.giphy.com/media/lP11jIGXIU2epIFZON/giphy.gif" width="25px"> | [Instalacion](#Instalation)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
+|  004   |:heavy_check_mark: |<img src="https://media.giphy.com/media/lP11jIGXIU2epIFZON/giphy.gif" width="25px"> | [Hola Perl](#Hola-Perl)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  004   |:heavy_check_mark: | <img src="https://media.giphy.com/media/lP11jIGXIU2epIFZON/giphy.gif" width="25px">| [Variables](#Variables)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  005   |:heavy_check_mark: |<img src="https://media.giphy.com/media/lP11jIGXIU2epIFZON/giphy.gif" width="25px"> | [Array](#Array)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  006   |:heavy_check_mark: | <img src="https://media.giphy.com/media/lP11jIGXIU2epIFZON/giphy.gif" width="25px"> |[Hashes](#Hashes)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  007   |:heavy_check_mark: | <img src="https://media.giphy.com/media/lP11jIGXIU2epIFZON/giphy.gif" width="25px"> |[Condicionales](#Condicionales)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
  _Interprete de Perl_
 
