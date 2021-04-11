@@ -223,7 +223,7 @@ Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Git/
         </tr>
         <tr>
           <td>C</td>
-          <td colspan="2">D</td>
+          <td colspan="2"><img align="center" style="padding=0;" src="./images/line.gif" /></td>
           <td>E</td>
         </tr>
         <tr>
