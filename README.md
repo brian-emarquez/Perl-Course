@@ -36,7 +36,7 @@
     </td>
   </tr>
 </table>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <!--![java](./images/pbanner.gif)-->
 
 ## Table of Contents
