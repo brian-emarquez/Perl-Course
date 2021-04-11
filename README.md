@@ -215,3 +215,24 @@ Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Git/
     </td>
   </tr>
 </table>
+
+ <table>
+        <tr>
+          <td colspan="3">A</td>
+          <td>B</td>
+        </tr>
+        <tr>
+          <td>C</td>
+          <td colspan="2">D</td>
+          <td>E</td>
+        </tr>
+        <tr>
+          <td colspan="4">F</td>
+        </tr>
+        <tr>
+          <td>G</td>
+          <td>H</td>
+          <td>I</td>
+          <td>J</td>
+        </tr>
+        </table>
