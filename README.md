@@ -42,7 +42,7 @@
 ## Table of Contents
 
 | Numeration   | Check       | Update        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
-| ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------- |
+| ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
 |  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/Jmn641UpKSp5SukKxw/giphy.gif" width="25px">| [Creador](#Creador)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  002   |:heavy_check_mark: | [Perl](#Perl)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  003   |:heavy_check_mark: | [Instalacion](#Instalation)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
