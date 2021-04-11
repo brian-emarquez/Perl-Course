@@ -28,13 +28,16 @@
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Perl-Course?style=for-the-badge">
 </P>
 
-<table align="center">
+
+<!-- <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="./images/pbanner.gif"/>
     </td>
   </tr>
-</table>
+</table>-->
+
+![java](./images/pbanner.gif)
 
 ## Table of Contents
 
