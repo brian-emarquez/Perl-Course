@@ -29,12 +29,12 @@
 </P>
 
 <table align="center">
-<h3 align="center"> Larry Wall  </h3>
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="./images/Mogomov.gif" />
     </td>
   </tr>
+<h3 align="center"> Larry Wall  </h3>
 </table>
 
 <!--![java](./images/pbanner.gif)-->
