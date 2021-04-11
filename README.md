@@ -28,13 +28,16 @@
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Perl-Course?style=for-the-badge">
 </P>
 
+
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/Perl.png" />
+      <img align="center" style="padding=0;" src="./images/pbanner.gif"/>
     </td>
   </tr>
 </table>
+
+<!--![java](./images/pbanner.gif)-->
 
 ## Table of Contents
 
@@ -50,7 +53,6 @@
 |  007   |:heavy_check_mark: | [Condicionales](#Condicionales)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 ---
-
 ## Creador
 
 <table align="center">
@@ -60,7 +62,6 @@
       <img align="center" style="padding=0;" src="./images/Larry_Wall.jpg" />
     </td>
   </tr>
-  <h3 align="center"> Extensiones: comunes	pl y pm  </h3>
 </table>
 
 
@@ -79,16 +80,14 @@ Mientras hacía su posgrado en UC Berkeley, Wall y su mujer estudiaron lingüís
       <img align="center" style="padding=0;" src="./images/Cebolla_Chulita.png" />
     </td>
   </tr>
-  <h3 align="center"> Paradigma: 	multiparadigma, funcional, imperativa, orientado a objetos (basado en clases), reflexiva, procedural, eventos, genérica  </h3>
-
-</table>
+ </table>
 
 
 <p>Perl es un lenguaje de programación diseñado por Larry Wall en 1987. Perl toma características del lenguaje C, del lenguaje interpretado bourne shell (sh), AWK, sed, Lisp y, en un grado inferior, de muchos otros lenguajes de programación.
 
 Estructuralmente, Perl está basado en un estilo de bloques como los del C o AWK, y fue ampliamente adoptado por su destreza en el procesado de texto y no tener ninguna de las limitaciones de los otros lenguajes de script.</p>
 
-[https://www.perl.org/]
+[https://www.perl.org/], 
 [https://dev.perl.org/perl5/]
 
 ## Instalation
@@ -99,7 +98,6 @@ Estructuralmente, Perl está basado en un estilo de bloques como los del C o AWK
       <img align="center" style="padding=0;" src="./images/home_pages.png" />
     </td>
   </tr>
-  <h3 align="center"> Apareció en	18 de diciembre de 1987   </h3>
 </table>
 
 📦 [Install Perl 5](https://www.perl.org/get.html) get the installer for windows<br>
@@ -187,16 +185,20 @@ print "\$data{'Kumar'} = $data{'Kumar'}\n";
 
 ----
 
+## Compilador Online
+
+Compilador Online Perl [Perl](https://paiza.io/es/projects/new) 🍵
+
 ## Paypal Donation
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
 ## License 
 Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Git/blob/master/LICENCE)
 
-<table>
+<table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/git00.gif" />
+      <img align="center" style="padding=0;" src="./images/line.gif" />
     </td>
   </tr>
 </table>
