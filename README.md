@@ -41,9 +41,9 @@
 
 ## Table of Contents
 
-| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
-| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  001   |:heavy_check_mark: | [Creador](#Creador)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+| Numeration   | Check       | Update        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/Jmn641UpKSp5SukKxw/giphy.gif" width="25px">| [Creador](#Creador)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  002   |:heavy_check_mark: | [Perl](#Perl)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  003   |:heavy_check_mark: | [Instalacion](#Instalation)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
 |  004   |:heavy_check_mark: | [Hola Perl](#Hola-Perl)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
@@ -64,7 +64,6 @@
 * `perl -x script` : Empieza a interpretar el fichero que contiene el script cuando encuentra la referencia al intérprete, por ejemplo: #!/usr/bin/perl.
 * `perl -i archivo` :  Permite editar archivos. Por ejemplo, si ejecutamos lo siguiente sobre la línea de comandos: perl -p -i -e "s/\$seg/\$segundos/g;" tiempo.pl. Esta orden cambiará el nombre de la variable $seg por $segundos en el script contenido en el fichero tiempo.pl.
 
----
 ## Creador
 
 <table align="center">
