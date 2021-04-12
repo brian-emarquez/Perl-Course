@@ -217,12 +217,10 @@ print "\$data{'Kumar'} = $data{'Kumar'}\n";
       <td>Randal L. Schwartz, brian d foy, and Tom Phoenix</td>
       <td>Heather Scherer</td>
       <td>Seventh Edition</td>
-     (dgfdfg)[https://es.wikipedia.org/wiki/Python]
+      <td>Seventh Edition</td>
       <td>rh63</td>
   </tr>
 
-
-[WIKIPEDIA](https://es.wikipedia.org/wiki/Python)
 </table>
 
 ## Compilador Online
