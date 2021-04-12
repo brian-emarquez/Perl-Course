@@ -198,6 +198,31 @@ print "\$data{'Kumar'} = $data{'Kumar'}\n";
 
 ----
 
+## Book
+
+
+<table class="default">
+
+  <tr>
+      <td>Name</td>
+      <td>Authors</td>
+      <td>Editor</td>
+      <td>Edition</td>
+      <td>Link</td>
+      <td>Password</td>
+  </tr>
+
+  <tr>
+      <td>Learning Perl</td>
+      <td>Randal L. Schwartz, brian d foy, and Tom Phoenix</td>
+      <td>Heather Scherer</td>
+      <td>Seventh Edition</td>
+      <td>[Learning Perl](https://dubox.com/s/1pBrdaQEA-aOZoVI47NszAA</td>
+      <td>rh63</td>
+  </tr>
+
+</table>
+
 ## Compilador Online
 
 Compilador Online Perl [Perl](https://paiza.io/es/projects/new) 🍵
