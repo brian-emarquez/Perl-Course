@@ -217,7 +217,7 @@ print "\$data{'Kumar'} = $data{'Kumar'}\n";
       <td>Randal L. Schwartz, brian d foy, and Tom Phoenix</td>
       <td>Heather Scherer</td>
       <td>Seventh Edition</td>
-      <td><a href="https://dubox.com/s/1-yT8j2d7Y6mKMu7A48gAPA">link text</a></td>
+      <td><a href="https://dubox.com/s/1-yT8j2d7Y6mKMu7A48gAPA">Learning Perl</a></td>
       <td>sq76</td>
   </tr>
 
