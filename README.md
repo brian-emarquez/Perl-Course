@@ -217,7 +217,7 @@ print "\$data{'Kumar'} = $data{'Kumar'}\n";
       <td>Randal L. Schwartz, brian d foy, and Tom Phoenix</td>
       <td>Heather Scherer</td>
       <td>Seventh Edition</td>
-      <td>[Learning Perl](https://dubox.com/s/1pBrdaQEA-aOZoVI47NszAA)</td>
+      <td>[WIKIPEDIA](https://es.wikipedia.org/wiki/Python)</td>
       <td>rh63</td>
   </tr>
 
