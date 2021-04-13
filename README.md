@@ -51,6 +51,8 @@
 |  005   |:heavy_check_mark: |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | [Array](#Array)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  006   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Hashes](#Hashes)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  007   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Condicionales](#Condicionales)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  008   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Condicionales](#Condicionales)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+
 
  _Interprete de Perl_
 
