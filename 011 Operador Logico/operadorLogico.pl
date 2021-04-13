@@ -6,7 +6,7 @@ use strict;
 
 # Tipos de Operadores logicos
 # && : AND evaluara si las dos condciones son ciertas
-# || : or evalua si al menos unos de las 2 condciones es cierta
+# || : OR evalua si al menos unos de las 2 condciones es cierta
 # ! : Not evaluara si la concicion no es cierta
 
 my $numero1 = 2;
@@ -14,6 +14,16 @@ my $numero2 = 9;
 my $numero3 = 4;
 my $numero4 = 4;
 
+
+# AND
+if($numero1 == $numero2){
+    print "verdadero";
+}else{
+    print "Falso";
+}
+
+
+# OR
 if(!($numero1 == $numero2)){
     print "verdadero";
 }else{
