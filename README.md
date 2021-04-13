@@ -55,6 +55,14 @@
 |  009   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Operadores Relacionales](#Operadores-Relacionales)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  010   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Operadores para Expresiones Regulares](#Operadores-para-Expresiones-Regulares)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  011   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Operadores Logico](#Operadores-Logico)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  012   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Operador de Seleccion](#Operador-de-Seleccion)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  013   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Entrada de datos STDIN](#Entrada-de-datos-STDIN)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  014   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Entrada de datos ARGV](#Entrada-de-datos-ARGV)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  015   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Array Muntidimencional](#Array-Muntidimencional)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  016   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Lista Asociativa](#Lista-Asociativa)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  017   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Funciones](#Funciones)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  018   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Crear Funciones parámetro opcional](#Crear-Funciones-parámetro-opcional)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+
 
  _Interprete de Perl_
 
@@ -236,6 +244,58 @@ print "\$data{'Kumar'} = $data{'Kumar'}\n";
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Operadores Relacionales](https://github.com/BrianMarquez3/Perl-Course/tree/main/008%20Operadores%20Relacionales)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
 
+## Operadores para Expresiones Regulares
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Operadores para Expresiones Regulares](https://github.com/BrianMarquez3/Perl-Course/tree/main/008%20Operadores%20Relacionales)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+## Operadores Logico
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Operadores Logico](https://github.com/BrianMarquez3/Perl-Course/tree/main/008%20Operadores%20Relacionales)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+
+## Operador de Seleccion
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Operador de Seleccion](https://github.com/BrianMarquez3/Perl-Course/tree/main/008%20Operadores%20Relacionales)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+
+## Entrada de datos STDIN
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Entrada de datos STDIN](https://github.com/BrianMarquez3/Perl-Course/tree/main/008%20Operadores%20Relacionales)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+
+## Entrada de datos ARGV
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Entrada de datos ARGV](https://github.com/BrianMarquez3/Perl-Course/tree/main/008%20Operadores%20Relacionales)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+
+## Array Muntidimencional
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Array Muntidimencional](https://github.com/BrianMarquez3/Perl-Course/tree/main/008%20Operadores%20Relacionales)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+
+## Lista Asociativa
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Lista Asociativa](https://github.com/BrianMarquez3/Perl-Course/tree/main/008%20Operadores%20Relacionales)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+
+## Funciones
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Funciones](https://github.com/BrianMarquez3/Perl-Course/tree/main/008%20Operadores%20Relacionales)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+
+## Crear Funciones parámetro opcional
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Crear Funciones parámetro opcional](https://github.com/BrianMarquez3/Perl-Course/tree/main/008%20Operadores%20Relacionales)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
 
 ----
 
