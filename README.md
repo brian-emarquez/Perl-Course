@@ -1,4 +1,4 @@
-<h2 align="center">  Power of Perl 🐫 Learn Basic and Advanced Perl <img src="https://media.giphy.com/media/RxAdKu5nrs32vhKEUq/giphy.gif" width="25px"> </h2>
+<h2 align="center">  Power of Perl 🐫 Learn Basic and Advanced Perl <img src="https://media.giphy.com/media/BuEWKbTlVl3ECX6mi4/giphy.gif" width="25px"> </h2>
 <!-- https://shields.io/ -->
 
 <p align="center">
