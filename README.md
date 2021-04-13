@@ -200,8 +200,17 @@ print "\$data{'Kumar'} = $data{'Kumar'}\n";
 
 ## Bucles
 
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Bucles](https://github.com/BrianMarquez3/Perl-Course/tree/main/006%20Bucles)  | 003 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
 
 ## Subrutinas
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Subrutinas](https://github.com/BrianMarquez3/Perl-Course/tree/main/007%20Subrutinas)  | 003 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+
+
 
 ----
 
