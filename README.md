@@ -1,4 +1,4 @@
-<h2 align="center">  Power of Perl 🐫 Learn Basic and Advanced Perl </h2>
+<h2 align="center">  Power of Perl 🐫 Learn Basic and Advanced Perl <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="25px"> </h2>
 <!-- https://shields.io/ -->
 
 <p align="center">
@@ -97,6 +97,14 @@ Mientras hacía su posgrado en UC Berkeley, Wall y su mujer estudiaron lingüís
  </table>
 
 Perl(Practical Extraction and Report Language) Lenguaje Practico para Extraccion e Informe
+
+_Perl Compañes_
+
+- Amazon
+- Audible
+- BBC
+- ASK
+- Axtel
 
 <p>Perl es un lenguaje de programación diseñado por Larry Wall en 1987. Perl toma características del lenguaje C, del lenguaje interpretado bourne shell (sh), AWK, sed, Lisp y, en un grado inferior, de muchos otros lenguajes de programación.
 
