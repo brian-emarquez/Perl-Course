@@ -62,7 +62,11 @@
 |  016   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Lista Asociativa](#Lista-Asociativa)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  017   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Funciones](#Funciones)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  018   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Crear Funciones parámetro opcional](#Crear-Funciones-parámetro-opcional)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-
+|  019   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Funciones para Strings](#Funciones-para-Strings)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
+|  020   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Funciones para Arrays](#Funciones-para-Arrays)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  021   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Buscar Reemplazar](#Buscar-Reemplazar)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
+|  022   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Leer y Escribir Ficheros](#Leer-y-Escribir-Ficheros)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
+|  023   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Programacion Orientada a Objetos](#Programacion-Orientada-a-Objetos)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
 
  _Interprete de Perl_
 
@@ -297,6 +301,60 @@ print "\$data{'Kumar'} = $data{'Kumar'}\n";
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Crear Funciones parámetro opcional](https://github.com/BrianMarquez3/Perl-Course/tree/main/018%20Crear%20Funciones%20par%C3%A1metro%20opcional)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
 
+
+
+## Funciones para Strings
+
+- `binmode` : permite indicar la codificacion corracta para la entrada y la salidad de datos.
+
+- Esta funcion permite indicar la codificacion cp850 de la consola de windows para evitar que aparescan caracteres extraños
+
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Funciones para Strings](https://github.com/BrianMarquez3/Perl-Course/tree/main/018%20Crear%20Funciones%20par%C3%A1metro%20opcional)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+
+
+## Funciones para Arrays
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Funciones para Arrays](https://github.com/BrianMarquez3/Perl-Course/tree/main/018%20Crear%20Funciones%20par%C3%A1metro%20opcional)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+
+
+## Buscar Reemplazar
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Buscar Reemplazar](https://github.com/BrianMarquez3/Perl-Course/tree/main/018%20Crear%20Funciones%20par%C3%A1metro%20opcional)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+
+
+## Leer y Escribir Ficheros
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Leer y Escribir Ficheros](https://github.com/BrianMarquez3/Perl-Course/tree/main/018%20Crear%20Funciones%20par%C3%A1metro%20opcional)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+
+
+## Programacion Orientada a Objetos
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Programacion Orientada a Objetos](https://github.com/BrianMarquez3/Perl-Course/tree/main/018%20Crear%20Funciones%20par%C3%A1metro%20opcional)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ----
 
 ## Book
@@ -322,6 +380,7 @@ print "\$data{'Kumar'} = $data{'Kumar'}\n";
   </tr>
 
 </table>
+
 
 ## Compilador Online
 
