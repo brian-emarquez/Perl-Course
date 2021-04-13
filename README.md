@@ -96,6 +96,7 @@ Mientras hacía su posgrado en UC Berkeley, Wall y su mujer estudiaron lingüís
   </tr>
  </table>
 
+Perl(Practical Extraction and Report Language) Lenguaje Practico para Extraccion e Informe
 
 <p>Perl es un lenguaje de programación diseñado por Larry Wall en 1987. Perl toma características del lenguaje C, del lenguaje interpretado bourne shell (sh), AWK, sed, Lisp y, en un grado inferior, de muchos otros lenguajes de programación.
 
