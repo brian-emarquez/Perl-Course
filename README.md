@@ -312,35 +312,35 @@ print "\$data{'Kumar'} = $data{'Kumar'}\n";
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Funciones para Strings](https://github.com/BrianMarquez3/Perl-Course/tree/main/018%20Crear%20Funciones%20par%C3%A1metro%20opcional)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+| [Funciones para Strings](https://github.com/BrianMarquez3/Perl-Course/tree/main/019%20Funciones%20para%20Strings)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
 
 
 ## Funciones para Arrays
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Funciones para Arrays](https://github.com/BrianMarquez3/Perl-Course/tree/main/018%20Crear%20Funciones%20par%C3%A1metro%20opcional)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+| [Funciones para Arrays](https://github.com/BrianMarquez3/Perl-Course/tree/main/020%20Funciones%20para%20Arrays)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 
 ## Buscar Reemplazar
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Buscar Reemplazar](https://github.com/BrianMarquez3/Perl-Course/tree/main/018%20Crear%20Funciones%20par%C3%A1metro%20opcional)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+| [Buscar Reemplazar](https://github.com/BrianMarquez3/Perl-Course/tree/main/021%20Buscaar%20Reemplaza)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 
 ## Leer y Escribir Ficheros
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Leer y Escribir Ficheros](https://github.com/BrianMarquez3/Perl-Course/tree/main/018%20Crear%20Funciones%20par%C3%A1metro%20opcional)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+| [Leer y Escribir Ficheros](https://github.com/BrianMarquez3/Perl-Course/tree/main/022%20Leer%20y%20Escribir%20Ficheros)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 
 ## Programacion Orientada a Objetos
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Programacion Orientada a Objetos](https://github.com/BrianMarquez3/Perl-Course/tree/main/018%20Crear%20Funciones%20par%C3%A1metro%20opcional)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+| [Programacion Orientada a Objetos](https://github.com/BrianMarquez3/Perl-Course/tree/main/023%20Programacion%20Orientada%20a%20Objetos)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 
 
