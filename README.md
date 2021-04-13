@@ -248,54 +248,54 @@ print "\$data{'Kumar'} = $data{'Kumar'}\n";
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Operadores para Expresiones Regulares](https://github.com/BrianMarquez3/Perl-Course/tree/main/008%20Operadores%20Relacionales)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+| [Operadores para Expresiones Regulares](https://github.com/BrianMarquez3/Perl-Course/tree/main/010%20Operadores%20para%20Expresiones%20Regulares)  | 008 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
 ## Operadores Logico
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Operadores Logico](https://github.com/BrianMarquez3/Perl-Course/tree/main/008%20Operadores%20Relacionales)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+| [Operadores Logico](https://github.com/BrianMarquez3/Perl-Course/tree/main/011%20Operador%20Logico)  | 009 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
 
 ## Operador de Seleccion
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Operador de Seleccion](https://github.com/BrianMarquez3/Perl-Course/tree/main/008%20Operadores%20Relacionales)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+| [Operador de Seleccion](https://github.com/BrianMarquez3/Perl-Course/tree/main/012%20Operador%20de%20Seleccion)  | 010 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
 
 ## Entrada de datos STDIN
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Entrada de datos STDIN](https://github.com/BrianMarquez3/Perl-Course/tree/main/008%20Operadores%20Relacionales)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+| [Entrada de datos STDIN](https://github.com/BrianMarquez3/Perl-Course/tree/main/013%20Entrada%20de%20datos%20STDIN)  | 011 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
 
 ## Entrada de datos ARGV
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Entrada de datos ARGV](https://github.com/BrianMarquez3/Perl-Course/tree/main/008%20Operadores%20Relacionales)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+| [Entrada de datos ARGV](https://github.com/BrianMarquez3/Perl-Course/tree/main/008%20Operadores%20Relacionales)  | 012 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
 
 ## Array Muntidimencional
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Array Muntidimencional](https://github.com/BrianMarquez3/Perl-Course/tree/main/008%20Operadores%20Relacionales)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+| [Array Muntidimencional](https://github.com/BrianMarquez3/Perl-Course/tree/main/015%20Array%20Muntidimencional)  | 013 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
 
 ## Lista Asociativa
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Lista Asociativa](https://github.com/BrianMarquez3/Perl-Course/tree/main/008%20Operadores%20Relacionales)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+| [Lista Asociativa](https://github.com/BrianMarquez3/Perl-Course/tree/main/016%20Lista%20Asociativa)  | 014 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
 
 ## Funciones
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Funciones](https://github.com/BrianMarquez3/Perl-Course/tree/main/008%20Operadores%20Relacionales)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+| [Funciones](https://github.com/BrianMarquez3/Perl-Course/tree/main/017%20Funciones)  | 015 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
 
 ## Crear Funciones parámetro opcional
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Crear Funciones parámetro opcional](https://github.com/BrianMarquez3/Perl-Course/tree/main/008%20Operadores%20Relacionales)  | 007 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+| [Crear Funciones parámetro opcional](https://github.com/BrianMarquez3/Perl-Course/tree/main/018%20Crear%20Funciones%20par%C3%A1metro%20opcional)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
 
 ----
 
