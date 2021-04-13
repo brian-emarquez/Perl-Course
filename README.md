@@ -220,6 +220,20 @@ print "\$data{'Kumar'} = $data{'Kumar'}\n";
 | [Subrutinas](https://github.com/BrianMarquez3/Perl-Course/tree/main/007%20Subrutinas)  | 003 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
 
 
+## Operadores Relacionales
+
+```perl
+#Igualdad == `eq` 
+#Inferior < `it` 
+#Inferior > `gt` 
+#Inferior <= `le` 
+#Inferior >= `ge` 
+```
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Operadores Relacionales](https://github.com/BrianMarquez3/Perl-Course/tree/main/007%20Subrutinas)  | 003 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
+
 
 ----
 

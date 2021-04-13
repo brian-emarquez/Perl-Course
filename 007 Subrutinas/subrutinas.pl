@@ -1,4 +1,4 @@
-# Subrutinas
+#!c:/Strawberry/perl/bin/perl.exe
 
 use strict;
 use warnings;
