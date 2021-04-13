@@ -222,7 +222,7 @@ print "\$data{'Kumar'} = $data{'Kumar'}\n";
 
 ## Operadores Relacionales
 
-```perl
+```pl
 #Igualdad == `eq` 
 #Inferior < `it` 
 #Inferior > `gt` 
