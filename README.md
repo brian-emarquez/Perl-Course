@@ -50,8 +50,8 @@
 |  004   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">| [Variables](#Variables)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  005   |:heavy_check_mark: |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | [Array](#Array)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  006   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Hashes](#Hashes)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  007   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Condicionales](#Condicionales)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
-|  008   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Condicionales](#Condicionales)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  007   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[ Bucles](#Bucles)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  008   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Subrutinas](#Subrutinas)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 
  _Interprete de Perl_
@@ -198,10 +198,14 @@ print "\$data{'Kumar'} = $data{'Kumar'}\n";
 | [Condicionales](https://github.com/BrianMarquez3/Perl-Course/tree/main/005%20Condicionales)  | 003 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents))
 
 
+## Bucles
+
+
+## Subrutinas
+
 ----
 
 ## Book
-
 
 <table>
 
