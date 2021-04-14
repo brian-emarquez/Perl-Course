@@ -22,7 +22,7 @@ print $string;
 print "\n";
 
 print "______________SPLIT_________________\n";
-# split: divide un strin para convertirlo en un array a partir del patron indicado
+# split: divide un string para convertirlo en un array a partir del patron indicado
 my $cadena = "uno dos trer cuatro";
 my @lista = split(' ', $cadena);
 foreach(@lista){
@@ -58,6 +58,5 @@ push(@frutas, 'toronja');
 foreach (@frutas){
     print $_."\n";
 }
-
 
 }
