@@ -1,4 +1,3 @@
-package Empleado;
 
 #!C:/Strawberry/perl/bin/perl.exe
 #!/usr/bin/perl
