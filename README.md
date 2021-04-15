@@ -67,7 +67,12 @@
 |  021   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Buscar Reemplazar](#Buscar-Reemplazar)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
 |  022   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Leer y Escribir Ficheros](#Leer-y-Escribir-Ficheros)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
 |  023   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Programacion Orientada a Objetos](#Programacion-Orientada-a-Objetos)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
-
+|  024   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Herencia](#Herencia)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
+|  025   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[LWP Simple obtener contenio de sitios web](#LWP-Simple-obtener-contenio-de-sitios-web)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
+|  026   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[LWP simple Encontrar rastrear emails en la web](#LWP-simple-Encontrar-rastrear-emails-en-la-web)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
+|  027   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Mechanize Obtener links e imahenes de la web](#Mechanize-Obtener-links-e-imahenes-de-la-web)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
+|  028   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Mechanize hack wordpress login](#Mechanize-hack-wordpress-login)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
+|  029   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Mechanize hack joomla login](#Mechanize-hack-joomla-login)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
  _Interprete de Perl_
 
 * `perl` -v :  Muestra la versión del intérprete de Perl que estamos utilizando.
@@ -343,17 +348,38 @@ print "\$data{'Kumar'} = $data{'Kumar'}\n";
 | [Programacion Orientada a Objetos](https://github.com/BrianMarquez3/Perl-Course/tree/main/023%20Programacion%20Orientada%20a%20Objetos)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 
+## Herencia
 
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Herencia](https://github.com/BrianMarquez3/Perl-Course/tree/main/023%20Programacion%20Orientada%20a%20Objetos)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
+## LWP Simple obtener contenio de sitios web
 
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [LWP Simple obtener contenio de sitios web](https://github.com/BrianMarquez3/Perl-Course/tree/main/023%20Programacion%20Orientada%20a%20Objetos)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+## LWP simple Encontrar rastrear emails en la web
 
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [LWP simple Encontrar rastrear emails en la we](https://github.com/BrianMarquez3/Perl-Course/tree/main/023%20Programacion%20Orientada%20a%20Objetos)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+## Mechanize Obtener links e imahenes de la web
 
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [echanize Obtener links e imahenes de la web
+](https://github.com/BrianMarquez3/Perl-Course/tree/main/023%20Programacion%20Orientada%20a%20Objetos)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+## Mechanize hack wordpress login
 
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Mechanize hack wordpress login](https://github.com/BrianMarquez3/Perl-Course/tree/main/023%20Programacion%20Orientada%20a%20Objetos)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+## Mechanize hack joomla login
 
-
-
-
-
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Mechanize hack joomla logi](https://github.com/BrianMarquez3/Perl-Course/tree/main/023%20Programacion%20Orientada%20a%20Objetos)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 ----
 
