@@ -386,6 +386,10 @@ print "\$data{'Kumar'} = $data{'Kumar'}\n";
 
 ## Filtrando información
 
+
+- Diccionario Extenso: rockyou.txt
+
+
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Filtrando información](hhttps://github.com/BrianMarquez3/Perl-Course/tree/main/030%20Filtrando%20informaci%C3%B3n)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
