@@ -73,6 +73,8 @@
 |  027   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Mechanize Obtener links e imahenes de la web](#Mechanize-Obtener-links-e-imahenes-de-la-web)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
 |  028   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Mechanize hack wordpress login](#Mechanize-hack-wordpress-login)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
 |  029   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Mechanize hack joomla login](#Mechanize-hack-joomla-login)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
+|  300   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Filtrando información](#Filtrando-información)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
+
 
 
  _Interprete de Perl_
@@ -381,6 +383,16 @@ print "\$data{'Kumar'} = $data{'Kumar'}\n";
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Mechanize hack joomla logi](https://github.com/BrianMarquez3/Perl-Course/tree/main/029%20Mechanize%20hack%20joomla%20login)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+
+## Filtrando información
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Filtrando información](hhttps://github.com/BrianMarquez3/Perl-Course/tree/main/030%20Filtrando%20informaci%C3%B3n)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+
+
+
+
 
 ----
 
