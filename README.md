@@ -73,7 +73,8 @@
 |  027   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Mechanize Obtener links e imahenes de la web](#Mechanize-Obtener-links-e-imahenes-de-la-web)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
 |  028   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Mechanize hack wordpress login](#Mechanize-hack-wordpress-login)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
 |  029   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Mechanize hack joomla login](#Mechanize-hack-joomla-login)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
-|  300   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Filtrando información](#Filtrando-información)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
+|  030   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Filtrando información](#Filtrando-información)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
+|  031   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Detectar Servicios](#Detectar-Servicios)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
 
 
 
@@ -386,15 +387,23 @@ print "\$data{'Kumar'} = $data{'Kumar'}\n";
 
 ## Filtrando información
 
+_Una de las caracteristicas poderosas de Perl_ 
 
 - Diccionario Extenso: rockyou.txt
+- Se adjunta dicconario
 
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Filtrando información](hhttps://github.com/BrianMarquez3/Perl-Course/tree/main/030%20Filtrando%20informaci%C3%B3n)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+| [Filtrando información](https://github.com/BrianMarquez3/Perl-Course/tree/main/030%20Filtrando%20informaci%C3%B3n)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 
+## Detectar Servicios
+
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Detectar Servicios](https://github.com/BrianMarquez3/Perl-Course/tree/main/031%20Detectar%20Servicios)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 
 
