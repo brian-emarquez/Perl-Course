@@ -406,8 +406,16 @@ print "\$data{'Kumar'} = $data{'Kumar'}\n";
       <td>sq76</td>
   </tr>
 
-</table>
+  <tr>
+      <td>Penetration Testing with Perl</td>
+      <td>Douglas Berdeaux</td>
+      <td>-</td>
+      <td>-</td>
+      <td><a href="https://dubox.com/s/1gOPFrAd48NnBAsi6qW7G6g">Penetration Testing with Perl</a></td>
+      <td>gi9a</td>
+  </tr>
 
+</table>
 
 ## Compilador Online
 
