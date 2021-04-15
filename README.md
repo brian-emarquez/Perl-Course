@@ -73,6 +73,8 @@
 |  027   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Mechanize Obtener links e imahenes de la web](#Mechanize-Obtener-links-e-imahenes-de-la-web)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
 |  028   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Mechanize hack wordpress login](#Mechanize-hack-wordpress-login)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
 |  029   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Mechanize hack joomla login](#Mechanize-hack-joomla-login)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
+
+
  _Interprete de Perl_
 
 * `perl` -v :  Muestra la versión del intérprete de Perl que estamos utilizando.
@@ -352,13 +354,13 @@ print "\$data{'Kumar'} = $data{'Kumar'}\n";
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Herencia](https://github.com/BrianMarquez3/Perl-Course/tree/main/023%20Programacion%20Orientada%20a%20Objetos)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+| [Herencia](https://github.com/BrianMarquez3/Perl-Course/tree/main/024%20Herencia)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 ## LWP Simple obtener contenio de sitios web
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [LWP Simple obtener contenio de sitios web](https://github.com/BrianMarquez3/Perl-Course/tree/main/023%20Programacion%20Orientada%20a%20Objetos)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+| [LWP Simple obtener contenio de sitios web](https://github.com/BrianMarquez3/Perl-Course/tree/main/025%20LWP%20Simple%20obtener%20contenio%20de%20sitios%20web)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 ## LWP simple Encontrar rastrear emails en la web
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
@@ -368,18 +370,17 @@ print "\$data{'Kumar'} = $data{'Kumar'}\n";
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [echanize Obtener links e imahenes de la web
-](https://github.com/BrianMarquez3/Perl-Course/tree/main/023%20Programacion%20Orientada%20a%20Objetos)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+| [echanize Obtener links e imahenes de la web](https://github.com/BrianMarquez3/Perl-Course/tree/main/027%20Mechanize%20Obtener%20links%20e%20imahenes%20de%20la%20web)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 ## Mechanize hack wordpress login
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Mechanize hack wordpress login](https://github.com/BrianMarquez3/Perl-Course/tree/main/023%20Programacion%20Orientada%20a%20Objetos)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+| [Mechanize hack wordpress login](https://github.com/BrianMarquez3/Perl-Course/tree/main/028%20Mechanize%20hack%20wordpress%20login)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 ## Mechanize hack joomla login
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Mechanize hack joomla logi](https://github.com/BrianMarquez3/Perl-Course/tree/main/023%20Programacion%20Orientada%20a%20Objetos)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+| [Mechanize hack joomla logi](https://github.com/BrianMarquez3/Perl-Course/tree/main/029%20Mechanize%20hack%20joomla%20login)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 ----
 
