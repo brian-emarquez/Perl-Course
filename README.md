@@ -75,7 +75,7 @@
 |  029   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Mechanize hack joomla login](#Mechanize-hack-joomla-login)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
 |  030   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Filtrando información](#Filtrando-información)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
 |  031   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Detectar Servicios](#Detectar-Servicios)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
-
+|  032   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Rangosbloques de IPS](#Rangosbloques-de-IPS)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
 
 
  _Interprete de Perl_
@@ -400,12 +400,42 @@ _Una de las caracteristicas poderosas de Perl_
 
 ## Detectar Servicios
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/cpan.png" />
+      <h4 align="center">  Influido por: AWK, Smalltalk 80, Lisp, C, C++, Pascal, sed, Unix shell </h4>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/facebook.png" />
+      <h4 align="center">  Influido por: AWK, Smalltalk 80, Lisp, C, C++, Pascal, sed, Unix shell </h4>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/facebook1.png" />
+      <h4 align="center">  Influido por: AWK, Smalltalk 80, Lisp, C, C++, Pascal, sed, Unix shell </h4>
+    </td>
+  </tr>
+</table>
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Detectar Servicios](https://github.com/BrianMarquez3/Perl-Course/tree/main/031%20Detectar%20Servicios)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
+## Rangosbloques de IPS
 
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Rangosbloques de IPS](https://github.com/BrianMarquez3/Perl-Course/tree/main/032%20Rangosbloques%20de%20IPS)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 ----
 
