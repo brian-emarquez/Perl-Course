@@ -84,7 +84,7 @@
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <h4 align="center"> Larry Wall: How to Code Like Larry Wall | Big Think </h4>
-      <img align="center" style="padding=0;" src="./images/Mlarry.gif" />
+      <img align="center" style="padding=0;" src="./images/larry.gif" />
     </td>
   </tr>
 </table>
