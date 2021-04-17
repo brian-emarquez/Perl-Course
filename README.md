@@ -79,6 +79,15 @@
 |  032   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Rangosbloques de IPS](#Rangosbloques-de-IPS)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
 |  033   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Exit](#Exit)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
 
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/larry.gif" />
+    </td>
+  </tr>
+</table>
+
  _Interprete de Perl_
 
 * `perl` -v :  Muestra la versión del intérprete de Perl que estamos utilizando.
