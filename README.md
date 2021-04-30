@@ -79,6 +79,13 @@
 |  032   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Rangosbloques de IPS](#Rangosbloques-de-IPS)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
 |  033   |:heavy_check_mark: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |[Exit](#Exit)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)|
 
+## Perl Linux
+
+| Numeration   | Check       | Stiker        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
+|  034   |:heavy_check_mark: |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | [Linux](#linux)   | <img src="https://media.giphy.com/media/2t9y1HvGcTKnlaLqpj/giphy.gif" width="25px">     | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+
+
 
 <table align="center">
   <tr>
@@ -454,7 +461,21 @@ _Una de las caracteristicas poderosas de Perl_
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Exit](https://github.com/BrianMarquez3/Perl-Course/tree/main/033%20Exit)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
+---
+## Linux
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/perl-linux.png" />
+    </td>
+  </tr>
+</table>
+
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Linux](https://github.com/BrianMarquez3/Perl-Course/tree/main/033%20Exit)  | 016 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 ----
 
