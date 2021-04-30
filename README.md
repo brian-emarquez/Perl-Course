@@ -464,6 +464,11 @@ _Una de las caracteristicas poderosas de Perl_
 ---
 ## Linux
 
+📦 [Install Kali Linux](https://www.kali.org/downloads/) - Download Kali Linux Images.<br>
+📦 [Install Kali Linux images](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/) - Download Offensivesecurity.<br>
+📦 [Install Vmware](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html) - Download VMware Workstation Pro.<br>
+📦 [Install Virtualbox](https://www.virtualbox.org/wiki/Downloads) - Welcome to VirtualBox.org <br>
+
 _Kali Linux_
 
 <table align="center">
