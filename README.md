@@ -464,6 +464,8 @@ _Una de las caracteristicas poderosas de Perl_
 ---
 ## Linux
 
+**Kali Linux**
+
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -471,9 +473,6 @@ _Una de las caracteristicas poderosas de Perl_
     </td>
   </tr>
 </table>
-
-
-_Kali Linux_
 
 Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
 
