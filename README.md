@@ -464,6 +464,8 @@ _Una de las caracteristicas poderosas de Perl_
 ---
 ## Linux
 
+_Kali Linux_
+
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
