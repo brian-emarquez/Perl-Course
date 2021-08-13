@@ -508,10 +508,10 @@ Kali Linux is an open-source, Debian-based Linux distribution geared towards var
       <td>Editor</td>
       <td>Edition</td>
       <td>Link</td>
-      <td>Password</td>
   </tr>
 
   <tr>
+      <td>OneDrive</td>
       <td>Learning Perl</td>
       <td>Randal L. Schwartz, brian d foy, and Tom Phoenix</td>
       <td>Heather Scherer</td>
@@ -520,6 +520,7 @@ Kali Linux is an open-source, Debian-based Linux distribution geared towards var
   </tr>
 
   <tr>
+      <td>OneDrive</td>
       <td>Penetration Testing with Perl</td>
       <td>Douglas Berdeaux</td>
       <td>-</td>
