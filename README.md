@@ -502,6 +502,7 @@ Kali Linux is an open-source, Debian-based Linux distribution geared towards var
 <table>
 
   <tr>
+      <td>Server</td>
       <td>Name</td>
       <td>Authors</td>
       <td>Editor</td>
@@ -515,8 +516,7 @@ Kali Linux is an open-source, Debian-based Linux distribution geared towards var
       <td>Randal L. Schwartz, brian d foy, and Tom Phoenix</td>
       <td>Heather Scherer</td>
       <td>Seventh Edition</td>
-      <td><a href="https://dubox.com/s/1-yT8j2d7Y6mKMu7A48gAPA">Learning Perl</a></td>
-      <td>sq76</td>
+      <td><a href="https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/Edr0-2zAHyhCiwHzgYLLghEBGxsqbCGN1tuEL9sQcApDgQ?e=mJ3kA7">Learning Perl</a></td>
   </tr>
 
   <tr>
@@ -524,8 +524,8 @@ Kali Linux is an open-source, Debian-based Linux distribution geared towards var
       <td>Douglas Berdeaux</td>
       <td>-</td>
       <td>-</td>
-      <td><a href="https://dubox.com/s/1gOPFrAd48NnBAsi6qW7G6g">Penetration Testing with Perl</a></td>
-      <td>gi9a</td>
+      <td><a href="https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/EVZpn6qgsO9CuT9-Au5-WssBB8HXeAxBJkX_-fs25FS3qA?e=lP6qNJ">Penetration Testing with Perl</a></td>
+
   </tr>
 
 </table>
